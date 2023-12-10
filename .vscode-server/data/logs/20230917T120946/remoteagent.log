@@ -1,0 +1,92 @@
+2023-09-17 12:09:46.641 [info] 
+
+
+
+
+2023-09-17 12:09:46.641 [info] Extension host agent started.
+2023-09-17 12:09:46.654 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-09-17 12:09:46.664 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-09-17 12:09:50.284 [info] [<unknown>][dc810ca5][ManagementConnection] New connection established.
+2023-09-17 12:09:50.345 [info] [<unknown>][909efdc0][ExtensionHostConnection] New connection established.
+2023-09-17 12:09:50.352 [info] [<unknown>][909efdc0][ExtensionHostConnection] <3553> Launched Extension Host Process.
+2023-09-17 12:10:51.575 [info] [<unknown>][dc810ca5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-17 12:10:51.577 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-17 12:10:56.592 [info] [<unknown>][909efdc0][ExtensionHostConnection] <3553> Extension Host Process exited with code: 0, signal: null.
+2023-09-17 12:10:56.592 [info] Cancelling previous shutdown timeout
+2023-09-17 12:10:56.592 [info] Last EH closed, waiting before shutting down
+2023-09-17 12:10:56.826 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-09-17 12:10:56.826 [info] Cancelling previous shutdown timeout
+2023-09-17 12:11:00.327 [info] [<unknown>][b019d93b][ManagementConnection] New connection established.
+2023-09-17 12:11:00.403 [info] [<unknown>][1f278246][ExtensionHostConnection] New connection established.
+2023-09-17 12:11:00.409 [info] [<unknown>][1f278246][ExtensionHostConnection] <3880> Launched Extension Host Process.
+2023-09-17 12:15:56.827 [info] New EH opened, aborting shutdown
+2023-09-17 12:17:58.719 [info] [<unknown>][b019d93b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-17 12:17:58.721 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-17 12:17:58.722 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+2023-09-17 12:17:58.723 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+2023-09-17 12:17:58.723 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+2023-09-17 12:17:58.723 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+2023-09-17 12:17:58.723 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+2023-09-17 12:17:58.723 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+2023-09-17 12:17:58.723 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+2023-09-17 12:18:03.744 [info] [<unknown>][1f278246][ExtensionHostConnection] <3880> Extension Host Process exited with code: 0, signal: null.
+2023-09-17 12:18:03.745 [info] Last EH closed, waiting before shutting down
+2023-09-17 12:18:37.048 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-09-17 12:18:37.048 [info] Cancelling previous shutdown timeout
+2023-09-17 12:18:39.448 [info] [<unknown>][491ced96][ManagementConnection] New connection established.
+2023-09-17 12:18:39.507 [info] [<unknown>][038a7aea][ExtensionHostConnection] New connection established.
+2023-09-17 12:18:39.514 [info] [<unknown>][038a7aea][ExtensionHostConnection] <6631> Launched Extension Host Process.
+2023-09-17 12:18:45.173 [info] [<unknown>][491ced96][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-17 12:18:45.175 [error] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+2023-09-17 12:18:48.259 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-09-17 12:18:48.260 [info] Cancelling previous shutdown timeout
+2023-09-17 12:18:49.553 [info] [<unknown>][8e4e1047][ManagementConnection] New connection established.
+2023-09-17 12:18:49.630 [info] [<unknown>][9abf35f4][ExtensionHostConnection] New connection established.
+2023-09-17 12:18:49.646 [info] [<unknown>][9abf35f4][ExtensionHostConnection] <6846> Launched Extension Host Process.
+2023-09-17 12:18:50.192 [info] [<unknown>][038a7aea][ExtensionHostConnection] <6631> Extension Host Process exited with code: 0, signal: null.
+2023-09-17 12:18:50.193 [info] Cancelling previous shutdown timeout
+2023-09-17 12:26:06.763 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-17 12:26:11.180 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-17 12:43:39.895 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)

@@ -1,0 +1,29 @@
+2023-09-17 12:11:04.812 [info] Log level: Info
+2023-09-17 12:11:04.812 [info] Validating found git in: "git"
+2023-09-17 12:11:04.812 [info] Using git "2.34.1" from "git"
+2023-09-17 12:11:04.812 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-17 12:11:04.812 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-17 12:11:04.812 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-17 12:11:04.812 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-17 12:11:04.812 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-17 12:11:04.812 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-17 12:11:04.813 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-17 12:11:04.813 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-17 12:11:04.822 [info] > git rev-parse --show-toplevel [4ms]
+2023-09-17 12:11:04.823 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-17 12:11:04.831 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-17 12:11:04.839 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-09-17 12:11:04.850 [info] Open repository: /root/django-plotly-dash
+2023-09-17 12:11:04.863 [info] > git config --get commit.template [6ms]
+2023-09-17 12:11:04.864 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-17 12:11:04.864 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-17 12:11:04.875 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-09-17 12:11:04.886 [info] > git status -z -uall [6ms]
+2023-09-17 12:11:04.901 [info] > git config --get commit.template [5ms]
+2023-09-17 12:11:04.903 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-09-17 12:11:04.910 [info] > git status -z -uall [3ms]
+2023-09-17 12:11:05.409 [info] > git check-ignore -v -z --stdin [1ms]
+2023-09-17 12:11:07.825 [info] > git check-ignore -v -z --stdin [1ms]
+2023-09-17 12:11:13.284 [info] > git show --textconv :README.md [9ms]
+2023-09-17 12:11:13.287 [info] > git ls-files --stage -- /root/django-plotly-dash/README.md [4ms]
+2023-09-17 12:11:13.294 [info] > git cat-file -s 9ed918346516de3c18dfd0231a7d23823ba9ab70 [1ms]

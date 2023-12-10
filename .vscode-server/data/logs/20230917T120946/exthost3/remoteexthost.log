@@ -1,0 +1,10 @@
+2023-09-17 12:18:40.055 [info] Extension host with pid 6631 started
+2023-09-17 12:18:40.099 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-17 12:18:40.175 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-17 12:18:40.188 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-17 12:18:40.189 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-17 12:18:40.451 [info] Eager extensions activated
+2023-09-17 12:18:40.452 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-17 12:18:40.452 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-17 12:18:45.173 [info] Extension host terminating: received terminate message from renderer
+2023-09-17 12:18:50.179 [info] Extension host with pid 6631 exiting with code 0

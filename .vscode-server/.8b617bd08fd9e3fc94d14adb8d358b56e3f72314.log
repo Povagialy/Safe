@@ -1,0 +1,185 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /run/user/0/vscode-ssh-remote-server-sock-1694941782
+Extension host agent listening on /run/user/0/vscode-ssh-remote-server-sock-1694941782
+
+[12:09:46] 
+
+
+
+
+[12:09:46] Extension host agent started.
+[12:09:46] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+[12:09:46] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+[12:09:50] [<unknown>][dc810ca5][ManagementConnection] New connection established.
+[12:09:50] [<unknown>][909efdc0][ExtensionHostConnection] New connection established.
+[12:09:50] [<unknown>][909efdc0][ExtensionHostConnection] <3553> Launched Extension Host Process.
+[12:10:51] [<unknown>][dc810ca5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:10:51] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+[12:10:56] [<unknown>][909efdc0][ExtensionHostConnection] <3553> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[12:10:56] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[12:10:56] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[12:10:56] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[12:10:56] Cancelling previous shutdown timeout
+[12:11:00] [<unknown>][b019d93b][ManagementConnection] New connection established.
+[12:11:00] [<unknown>][1f278246][ExtensionHostConnection] New connection established.
+[12:11:00] [<unknown>][1f278246][ExtensionHostConnection] <3880> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[12:15:56] New EH opened, aborting shutdown
+[12:17:58] [<unknown>][b019d93b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:17:58] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+[12:17:58] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+[12:17:58] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+[12:17:58] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+[12:17:58] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+[12:17:58] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+[12:17:58] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+[12:17:58] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+[12:18:03] [<unknown>][1f278246][ExtensionHostConnection] <3880> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[12:18:03] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[12:18:37] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[12:18:37] Cancelling previous shutdown timeout
+[12:18:39] [<unknown>][491ced96][ManagementConnection] New connection established.
+[12:18:39] [<unknown>][038a7aea][ExtensionHostConnection] New connection established.
+[12:18:39] [<unknown>][038a7aea][ExtensionHostConnection] <6631> Launched Extension Host Process.
+[12:18:45] [<unknown>][491ced96][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:18:45] Error: Throttler is disposed
+    at c.queue (/root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /root/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+Got delay-shutdown request while in shutdown timeout, delaying
+[12:18:48] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[12:18:48] Cancelling previous shutdown timeout
+[12:18:49] [<unknown>][8e4e1047][ManagementConnection] New connection established.
+[12:18:49] [<unknown>][9abf35f4][ExtensionHostConnection] New connection established.
+[12:18:49] [<unknown>][9abf35f4][ExtensionHostConnection] <6846> Launched Extension Host Process.
+[12:18:50] [<unknown>][038a7aea][ExtensionHostConnection] <6631> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[12:18:50] Cancelling previous shutdown timeout
+rejected promise not handled within 1 second: AggregateError
+stack trace: AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+[12:26:06] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5) {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:8000
+        at afterConnectMultiple (node:net:1519:16) {
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 8000
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:8000
+        at afterConnectMultiple (node:net:1519:16) {
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 8000
+    }
+  ]
+}
+rejected promise not handled within 1 second: AggregateError
+stack trace: AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+[12:26:11] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5) {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:8000
+        at afterConnectMultiple (node:net:1519:16) {
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 8000
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:8000
+        at afterConnectMultiple (node:net:1519:16) {
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 8000
+    }
+  ]
+}
+rejected promise not handled within 1 second: AggregateError
+stack trace: AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+[12:43:39] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5) {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:8000
+        at afterConnectMultiple (node:net:1519:16) {
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 8000
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:8000
+        at afterConnectMultiple (node:net:1519:16) {
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 8000
+    }
+  ]
+}
